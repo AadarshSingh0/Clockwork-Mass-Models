@@ -1,1 +1,2 @@
 # Clockwork-Mass-Models
+BR folder contains the main file Total-BR that computes and plots the constraints on flavour violation process mu to e gamma for all the models studied in paper https://arxiv.org/abs/2407.13733. This folder also contains various other files which are BR for each individual models. The folder mass contains various files that are named based on the model being used to produce hierarchy mass.
